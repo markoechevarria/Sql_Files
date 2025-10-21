@@ -1,2 +1,2 @@
-# SQL REPOSITORY
-This is the repository where sql files and classes are stored
+# SQL files
+This is the directory where sql files and classes are stored
