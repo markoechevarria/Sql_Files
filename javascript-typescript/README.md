@@ -1,2 +1,2 @@
 # JavaScript and Typescript
-A repository of JavaScript and Typescript
+A directory with JavaScript and Typescript files
